@@ -2,8 +2,8 @@ import Navbar from "./components/navbar"
 import About from "./components/about"
 import Skills from "./components/skills"
 import Link from "next/link"
-import Project from "./projects/page"
-import Contact from "./contact/page"
+import Project from "./components/project"
+import Contact from "./components/contact"
 export default function Home() {
   return (
     <div>
